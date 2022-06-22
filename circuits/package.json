@@ -1,0 +1,9 @@
+{
+  "name": "zk-soccer",
+  "version": "1.0.0",
+  "description": "Zero Knowledge Blind Soccer Game",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "^2.0.4"
+  }
+}
